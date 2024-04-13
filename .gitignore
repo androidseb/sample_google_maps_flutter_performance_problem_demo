@@ -1,0 +1,12 @@
+.packages
+.dart_tool
+/.flutter-plugins-dependencies
+/.flutter-plugins
+**/android/local.properties
+
+android/.gradle/
+android/gradle/wrapper/gradle-wrapper.jar
+android/gradlew
+android/gradlew.bat
+build/
+
